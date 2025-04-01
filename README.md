@@ -25,3 +25,7 @@ npm run docs:preview
 该项目使用 GitHub Actions 自动部署到 GitHub Pages。每当推送到 main 分支时，将自动触发部署流程。
 
 部署站点：https://huer-hu.github.io/ai-app-learning/ 
+
+## 欢迎一起学习交流
+
+<img src="./docs/assets/group.png" alt="WeChat" style="width: 200px;" />
