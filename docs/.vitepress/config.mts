@@ -12,7 +12,10 @@ export default defineConfig({
     sidebar: [
       {
         text: "目录",
-        items: [{ text: "打开 AI 的大门", link: "/docs/open-the-ai-door.md" }],
+        items: [
+          { text: "打开 AI 的大门", link: "/open-the-ai-door.md" },
+          { text: "玩转 RAG", link: "/play-rag.md" },
+        ],
       },
     ],
 
