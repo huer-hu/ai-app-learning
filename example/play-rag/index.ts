@@ -150,7 +150,7 @@ async function retrieveDocuments(database: Database, queryVector: number[], topK
 
 // 初始化OpenAI客户端
 const openai = new OpenAI({
-  apiKey: "sk-74b1274bf6af44fb997675e0ae42fbbd",
+  apiKey: "",
   baseURL: "https://api.deepseek.com/v1",
 });
 
